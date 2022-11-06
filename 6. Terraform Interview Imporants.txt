@@ -1,0 +1,26 @@
+Where are you storing you backend ? how are achieveing State locking ?
+write a code for ec2,s3,iam ? ans - provider.tf,main.tf,output.tf,var.tf
+what is terraform Modules ?
+Null Resource in Terraform ?
+Depends on in Terraform ?
+What are the terraform provisioners ?
+Scenario based terraform comparing (infra,state,.tf)
+Data Sources in Terrform ?
+Workspaces in Terraform ?
+Terraform taint ?
+var.tf, .tfvars, auto.tfvars, env variables, cli variables passed ?
+lifecycle in Terraform ? -> Createbeforedestroy, preventdestroy, ignore erros
+multiple provider ? -> alias !
+For Each 
+For Each Set
+
+
+
+
+
+
+
+
+
+
+
